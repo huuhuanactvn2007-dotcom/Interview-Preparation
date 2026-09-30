@@ -1,1 +1,33 @@
+Easy
 
+1.Java là gì và vì sao đến nay vẫn được dùng rộng rãi?
+2.== và .equals() trong Java khác nhau thế nào?
+3.Java có phải ngôn ngữ thuần hướng đối tượng không?
+4.Bộ nhớ Stack và Heap trong Java khác nhau thế nào?
+5.Năm đặc điểm nổi bật của Java là gì?
+6.Tại sao String trong Java là immutable?
+7.Constructor overloading là gì?
+8.Các access modifier trong Java là gì? Giải thích từng loại.
+9.Method overloading và method overriding khác nhau thế nào?
+10.Bốn tính chất của OOP là gì?
+11.Static member là gì? Khi nào nên dùng?
+12.NullPointerException là gì và làm thế nào để phòng tránh?
+13.this và super trong Java khác nhau thế nào?
+14.Keyword final trong Java có mấy cách dùng?
+15.Abstract class và interface khác nhau thế nào?
+16.Text block ("""...""") trong Java là gì, giải quyết vấn đề gì?
+17.final, finally và finalize khác nhau thế nào?
+18.String pool trong Java là gì? "abc" và new String("abc") khác gì nhau?
+
+Medium
+19. String, StringBuilder và StringBuffer khác nhau thế nào?
+20. Records trong Java là gì? Khi nào nên dùng Record thay vì class thông thường?
+21. equals() và hashCode() có contract gì với nhau? Tại sao phải override cả hai?
+22. Java là pass-by-value hay pass-by-reference?
+
+Hard
+23. Stream API và lập trình functional trong Java là gì?
+24. Functional interface là gì? Lambda liên quan gì với nó?
+25. Checked exception và unchecked exception khác nhau thế nào?
+26. Method reference trong Java là gì? Khác lambda thế nào?
+27. Optional class trong Java dùng để làm gì?
