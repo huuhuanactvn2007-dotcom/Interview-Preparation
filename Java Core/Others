@@ -1,1 +1,45 @@
+Easy
 
+1. Vì sao Integer a = 127, b = 127 thì a == b ra true, còn với 128 lại ra false?
+2. Xoá phần tử khi đang duyệt bằng for-each thì gặp lỗi gì? Cách xoá đúng là gì?
+3. Arrays.asList() trả về List loại gì? Vì sao gọi add() lại ném UnsupportedOperationException?
+4. Vì sao 0.1 + 0.2 != 0.3 trong Java? Tính tiền thì nên dùng kiểu gì?
+5. Khi nào một object đủ điều kiện bị GC thu hồi? Gọi System.gc() có ép GC chạy ngay không?
+
+Medium
+
+6. JIT compilation là gì và JVM dùng nó thế nào?
+7. Wrapper class là gì, autoboxing/unboxing hoạt động ra sao?
+8. >> và >>> khác nhau thế nào?
+9. Covariant return type là gì?
+10. Từ khoá transient là gì, ảnh hưởng tới serialization ra sao?
+11. Marker interface là gì (Serializable, Cloneable)?
+12. Khi nào và vì sao dùng private constructor?
+13. Từ Java 8, HashMap xử lý bucket bị đụng độ nhiều như thế nào?
+14. Dùng object mutable làm key của HashMap thì chuyện gì xảy ra?
+15. Cài LRU cache chỉ bằng thư viện chuẩn của Java thì làm thế nào?
+16. Collectors.toMap() có hai cạm bẫy nào khi gom List thành Map?
+17. Stream có dùng lại được không? Vì sao code có filter/map mà không thấy chạy?
+18. try-with-resources khác try/finally thế nào? Suppressed exception là gì?
+19. Nối chuỗi bằng + trong vòng lặp có vấn đề gì? Compiler dịch a + b thành gì?
+20. synchronized và ReentrantLock khác nhau thế nào? Khi nào chọn cái nào?
+21. Lock ở mức instance và lock ở mức class (static synchronized) khác nhau thế nào?
+22. Chọn số thread cho thread pool thế nào? Task CPU-bound và IO-bound khác nhau ra sao?
+23. ThreadPoolExecutor có những tham số nào? Vì sao nhiều nơi khuyên không dùng Executors.newFixedThreadPool()?
+24. thenApply, thenCompose, thenCombine khác nhau thế nào? Callback chạy trên thread nào?
+25. Metaspace là gì? Khác PermGen thế nào và khi nào gặp OutOfMemoryError: Metaspace?
+
+Hard
+
+26. Vì sao không tạo được g... (bị mờ, mình đoán: generic array trong Java?)
+27. Cạm bẫy của clone()/Cloneable là gì? (phần sau bị mờ, mình đoán)
+28. PECS là gì? Khi nào dùng ? extends và ? super? (phần sau bị mờ, mình đoán)
+29. Gặp IllegalArgumentException: Comparison method violates its general contract khi sort thì nguyên nhân là gì? (phần giữa bị mờ, mình đoán)
+30. Trong equals() nên kiểm tra kiểu bằng instanceof hay getClass()? (phần sau bị mờ, mình đoán)
+31. orElse và orElseGet khác nhau ra sao? Dùng Optional sai cách nào là phổ biến? (phần sau bị mờ, mình đoán)
+32. String.intern() làm gì? String pool nằm ở đâu trong bộ nhớ (thay đổi thế nào qua các phiên bản Java)? (phần sau bị mờ, mình đoán)
+33. Vì sao double-checked locking không có volatile lại sai? Java Memory Model liên quan thế nào? (phần giữa bị mờ, mình đoán)
+34. ConcurrentHashMap đảm bảo thread-safe bằng cơ chế nào? Vì sao check-then-act với get() rồi map.put(k, v) vẫn sai? (phần giữa bị mờ, mình đoán)
+35. ThreadLocal gây rò rỉ bộ nhớ khi dùng với thread pool như thế nào? Vì sao phải gọi remove()? (phần giữa bị mờ, mình đoán)
+36. CAS hoạt động thế nào trong AtomicInteger? ABA problem là gì? Khi nào nên dùng LongAdder? (phần giữa bị mờ, mình đoán)
+37. Pinning trong virtual thread (Java 21) là gì? Vì sao nó làm giảm hiệu năng? (phần sau bị mờ, mình đoán)
