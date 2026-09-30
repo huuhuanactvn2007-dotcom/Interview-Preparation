@@ -1,1 +1,11 @@
+Easy
 
+1. @ConfigurationProperties cần gì để bind được? Relaxed binding hoạt động ra sao?
+
+Medium
+
+2. application.properties và application.yml là gì? Externalized config hoạt động thế nào?
+3. @Value và @ConfigurationProperties khác nhau thế nào? Khi nào dùng cái nào?
+4. Spring Profiles là gì và cách dùng như thế nào?
+5. Thứ tự ưu tiên property trong Spring Boot như thế nào?
+6. @ConditionalOnProperty dùng để làm gì?
