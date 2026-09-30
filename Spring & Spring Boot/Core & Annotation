@@ -1,1 +1,26 @@
+Easy
 
+1. Spring Boot là gì và có những ưu điểm gì?
+2. Spring Boot DevTools có tác dụng gì?
+3. @Component, @Service, @Repository và @Controller khác nhau thế nào?
+4. Spring Boot Starters là gì? Nêu các starter thường dùng.
+5. Spring Boot Embedded Server là gì? Thay đổi sang Jetty như thế nào?
+6. Spring Framework và Spring Boot khác nhau thế nào?
+
+Medium
+
+7. @SpringBootApplication là gì? Gồm những annotation nào?
+8. Auto-configuration trong Spring Boot hoạt động thế nào?
+9. Bean scope trong Spring là gì? Singleton và Prototype khác nhau thế nào?
+10. Bean lifecycle trong Spring Boot: @PostConstruct và @PreDestroy dùng khi nào?
+11. @Async và @EnableAsync trong Spring Boot hoạt động thế nào?
+12. @Cacheable và @CacheEvict trong Spring Cache hoạt động thế nào?
+13. @Scheduled và @EnableScheduling dùng để làm gì?
+14. Spring Boot 3 khác gì so với Spring Boot 2? Những thay đổi lớn khi migrate?
+15. Spring AOP là gì? @Aspect, @Around và pointcut hoạt động thế nào?
+16. @TransactionalEventListener khác @EventListener thế nào? Dùng khi nào?
+17. Virtual Threads (Java 21) trong Spring Boot 3.2 hoạt động thế nào? Khác gì WebFlux?
+
+Hard
+
+18. GraalVM Native Image với Spring Boot hoạt động thế nào và có những hạn chế gì?
