@@ -1,1 +1,9 @@
+Easy
 
+1. Một thread trong Java đi qua những trạng thái nào?
+2. Runnable và Callable khác nhau thế nào?
+3. Daemon thread khác user thread thế nào?
+
+Medium
+
+4. Làm thế nào để dừng một thread đang chạy? Vì sao Thread.stop() bị loại bỏ?
