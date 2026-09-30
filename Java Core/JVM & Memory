@@ -1,1 +1,16 @@
+Medium
 
+1. JVM, JRE và JDK khác nhau thế nào?
+2. Quá trình Garbage Collection hoạt động thế nào?
+3. Generational Garbage Collection là gì?
+4. OutOfMemoryError là gì và làm thế nào để phòng tránh?
+5. Memory leak trong Java là gì? GC có thu hồi được không?
+6. Stack overflow và heap overflow khác nhau thế nào?
+7. ClassLoader là gì và có mấy loại?
+
+Hard
+
+8. Reflection trong Java là gì và dùng khi nào? 
+9. GraalVM Native Image cải thiện Spring Boot như thế nào và có những hạn chế gì? 
+10. So sánh G1GC, ZGC và Shenandoah: khi nào nên dùng loại nào? 
+11. Làm thế nào để chẩn đoán memory leak trong production bằng heap dump và profiling tools? 
