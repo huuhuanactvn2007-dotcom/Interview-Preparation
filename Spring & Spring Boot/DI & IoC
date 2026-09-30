@@ -1,1 +1,12 @@
+Easy
 
+1. @Autowired là gì và hoạt động thế nào?
+
+Medium
+
+2. Dependency Injection (DI) là gì? Spring cài đặt DI thế nào?
+3. @Bean và @Component khác nhau thế nào?
+4. Circular dependency trong Spring là gì? Cách phát hiện và fix?
+5. @Primary và @Qualifier trong Spring dùng khi nào?
+6. Constructor injection, setter injection và field injection khác nhau thế nào? Cái nào nên dùng?
+7. ApplicationContext và BeanFactory khác nhau thế nào?
