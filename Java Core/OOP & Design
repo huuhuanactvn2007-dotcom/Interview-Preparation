@@ -1,1 +1,20 @@
+Medium
 
+1. Kế thừa (Inheritance) trong Java có mấy loại?
+2. Liskov Substitution Principle (LSP) là gì?
+3. Polymorphism là gì? Giải thích compile-time và runtime polymorphism.
+4. Abstract class là gì? Khi nào nên dùng?
+5. Interface là gì? Java 8 thay đổi gì với interface?
+6. SOLID principles là gì? Giải thích S và O.
+7. Singleton pattern là gì?
+8. Factory pattern là gì?
+9. Composition và Inheritance — khi nào nên dùng cái nào?
+10. Method hiding là gì? Khác method overriding thế nào?
+11. Sealed Classes là gì và tại sao dùng kết hợp với Pattern Matching?
+12. Pattern matching for switch (Java 21) thay đổi cách viết switch như thế nào?
+13. Làm thế nào để viết một immutable class trong Java?
+14. Shallow copy và deep copy khác nhau thế nào?
+
+Hard
+15. Diamond problem trong Java là gì và Java giải quyết như thế nào?
+16. Java 8 interface default methods và static methods là gì?
