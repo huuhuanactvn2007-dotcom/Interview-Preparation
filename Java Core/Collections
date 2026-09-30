@@ -1,1 +1,19 @@
+Medium
 
+1. Collections Framework trong Java là gì?
+2. ArrayList và LinkedList khác nhau thế nào?
+3. HashSet và TreeSet khác nhau thế nào?
+4. HashMap và TreeMap khác nhau thế nào?
+5. HashSet và HashMap khác nhau thế nào?
+6. Iterator interface là gì và tại sao nên dùng?
+7. Fail-fast và fail-safe iterator khác nhau thế nào?
+8. Comparable và Comparator khác nhau thế nào?
+9. Queue interface là gì và khi nào nên dùng?
+10. ConcurrentHashMap khác Hashtable thế nào?
+11. Comparable và Comparator trong Java khác nhau thế nào?
+12. HashMap hoạt động bên trong như thế nào?
+13. ArrayList tự tăng dung lượng (grow/resize) nội bộ thế nào?
+
+Hard
+
+14. Generics và type erasure trong Java là gì?
