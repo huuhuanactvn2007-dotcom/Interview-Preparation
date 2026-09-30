@@ -1,1 +1,17 @@
 
+
+1. Thread là gì? Có mấy cách tạo thread trong Java?
+2. Synchronization là gì và khi nào nên dùng?
+3. Deadlock là gì? Làm thế nào để phòng tránh?
+4. ExecutorService là gì? Khác tạo thread thủ công thế nào?
+5. volatile keyword trong Java là gì?
+6. Future và CompletableFuture khác nhau thế nào?
+7. Race condition là gì và làm thế nào để phòng tránh?
+8. Virtual Threads là gì và chúng giải quyết vấn đề gì của Java?
+9. wait() và sleep() khác nhau thế nào?
+
+Hard
+
+10. synchronized và volatile khác nhau thế nào và khi nào dùng cái nào? 
+11. Happens-before relationship trong Java là gì? 
+12. CountdownLatch và CyclicBarrier khác nhau thế nào? 
