@@ -1,1 +1,5 @@
+Medium
 
+1. @ControllerAdvice và @ExceptionHandler dùng để làm gì?
+2. @Valid và @Validated trong Spring Boot khác nhau thế nào?
+3. @ResponseStatus dùng khi nào?
