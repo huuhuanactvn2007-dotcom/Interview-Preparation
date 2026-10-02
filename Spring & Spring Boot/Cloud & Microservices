@@ -1,1 +1,12 @@
+Medium
 
+1. RestTemplate, WebClient và RestClient khác nhau thế nào?
+2. Spring Kafka integration: cách produce và consume message?
+3. Service discovery và load balancing trong microservices với Spring Cloud?
+4. Spring Cloud Config Server dùng để làm gì?
+5. API Gateway là gì? Spring Cloud Gateway hoạt động thế nào?
+
+Hard
+
+6. Saga pattern giải quyết bài toán gì trong microservices?
+7. Circuit Breaker pattern với Resilience4j trong Spring Boot hoạt động thế nào?
