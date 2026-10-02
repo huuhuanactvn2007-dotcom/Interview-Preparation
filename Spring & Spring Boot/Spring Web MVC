@@ -1,1 +1,18 @@
+Easy
 
+1. @RestController và @Controller khác nhau thế nào?
+2. @PathVariable, @RequestParam và @RequestBody khác nhau thế nào?
+3. @RequestMapping và @GetMapping khác nhau thế nào?
+
+Medium
+
+4. Mono, Flux và backpressure trong Spring WebFlux là gì?
+5. ResponseEntity trong Spring MVC dùng để làm gì?
+6. OpenAPI (Swagger) tích hợp với Spring Boot thế nào?
+7. Filter và HandlerInterceptor trong Spring khác nhau thế nào?
+8. DTO và Entity khác nhau thế nào? Vì sao không trả entity thẳng ra API?
+
+Hard
+
+9. Spring MVC và Spring WebFlux khác nhau thế nào? Khi nào chọn cái nào?
+10. DispatcherServlet trong Spring MVC hoạt động thế nào?
