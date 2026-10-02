@@ -1,1 +1,24 @@
+Easy
 
+1. @Entity, @Id, @GeneratedValue và mapping quan hệ trong JPA hoạt động thế nào?
+
+Medium
+
+2. Spring Data JPA và @Repository là gì?
+3. Spring transaction management và @Transactional là gì?
+4. @Transactional(readOnly=true) có tác dụng gì?
+5. JPA và Hibernate khác nhau thế nào? Spring Data JPA là gì?
+6. Lazy loading và eager loading trong JPA là gì? Khi nào dùng cái nào?
+7. N+1 query problem trong JPA là gì? Cách fix?
+8. CrudRepository, JpaRepository và PagingAndSortingRepository khác nhau thế nào?
+9. Database migration với Flyway trong Spring Boot hoạt động thế nào?
+10. HikariCP là gì? Tại sao là default connection pool trong Spring Boot?
+11. @Transactional self-invocation problem là gì?
+12. Cách implement Pagination và Sorting với Spring Data JPA?
+13. Entity lifecycle trong JPA: transient, managed, detached, removed là gì?
+
+Hard
+
+14. Transaction propagation trong Spring là gì? Các loại propagation khác nhau thế nào?
+15. Transaction isolation levels trong Spring: READ_COMMITTED, REPEATABLE_READ, SERIALIZABLE khác nhau thế nào?
+16. save(), saveAndFlush() và flush() trong Spring Data JPA khác nhau thế nào?
