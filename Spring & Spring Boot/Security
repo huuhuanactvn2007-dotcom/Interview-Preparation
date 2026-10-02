@@ -1,1 +1,13 @@
+Medium
 
+1. Authentication và Authorization trong Spring Security khác nhau thế nào?
+2. Spring Security Filter Chain là gì? Hoạt động như thế nào?
+3. JWT authentication trong Spring Security hoạt động thế nào?
+4. CSRF protection trong Spring Security là gì? Khi nào cần bật/tắt?
+5. CORS trong Spring Boot cấu hình như thế nào?
+6. @PreAuthorize và method-level security trong Spring Security hoạt động thế nào?
+
+Hard
+
+7. OAuth 2.1 + Spring Authorization Server hoạt động như thế nào trong kiến trúc microservices?
+8. Sự khác biệt giữa Authorization Server và Resource Server trong Spring Security 6+ là gì?
