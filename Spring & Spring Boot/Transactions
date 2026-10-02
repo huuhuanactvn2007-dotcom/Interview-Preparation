@@ -1,1 +1,9 @@
+Easy
 
+1. Method có @Transactional ném checked exception thì transaction có rollback không?
+
+Hard
+
+2. Đã try/catch nuốt exception rồi mà vẫn nhận UnexpectedRollbackException: Transaction rolled back because it has been marked as rollback-only — vì sao?
+3. REQUIRES_NEW và NESTED khác nhau thế nào? Rollback ảnh hưởng ra sao?
+4. Đặt @Transactional lên method private hoặc method được gọi nội bộ thì có hoạt động không?
