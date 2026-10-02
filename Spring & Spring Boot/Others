@@ -1,1 +1,34 @@
+Easy
 
+1. Muốn chạy một đoạn code ngay sau khi app khởi động thì dùng gì? CommandLineRunner khác @PostConstruct thế nào?
+2. Graceful shutdown trong Spring Boot là gì? Cấu hình thế nào?
+3. Derived query method và @Query khác nhau thế nào? Khi nào dùng native query?
+4. Password lưu trong DB thế nào? PasswordEncoder mặc định của Spring Security là gì và tiền tố {bcrypt} để làm gì?
+5. Spring Security 6 cấu hình bảo mật thế nào khi WebSecurityConfigurerAdapter đã bị bỏ?
+
+Medium
+
+6. Loại trừ/tắt một auto-configuration cụ thể trong Spring Boot thế nào?
+7. @ComponentScan hoạt động thế nào, đặt base packages ra sao?
+8. Inject một bean scope prototype vào bean singleton thì mỗi lần dùng có ra instance mới không?
+9. Đặt @Bean trong class @Component thay vì @Configuration thì khác gì?
+10. Spring chọn JDK dynamic proxy hay CGLIB proxy dựa trên tiêu chí gì?
+11. Vì sao validate @RequestBody và validate @RequestParam lại ném hai loại exception khác nhau?
+12. Spring Boot 3 chuẩn hoá response lỗi bằng gì? ProblemDetail dùng ra sao?
+13. Nâng cấp lên Spring Boot 2.6+ thì app không khởi động được vì BeanCurrentlyInCreationException — xử lý thế nào?
+14. Cấu hình theo môi trường: spring.profiles.active, spring.profiles.include và spring.profiles.group khác nhau thế nào?
+15. Vì sao sửa field của entity trong method @Transactional mà không gọi save() thì DB vẫn được cập nhật?
+16. Viết equals() và hashCode() cho JPA entity thế nào cho đúng? Vì sao không dùng thẳng ID sinh tự động?
+17. Mô tả luồng đăng nhập username/password trong Spring Security: request đi qua những thành phần nào?
+18. Hai người cùng mở một đơn hàng và cùng bấm lưu, người sau ghi đè người trước. Em thiết kế luồng chống việc này thế nào?
+19. CascadeType.REMOVE và orphanRemoval = true khác nhau thế nào? Khi nào bắt buộc dùng orphanRemoval?
+20. Frontend gọi API bị lỗi CORS, request OPTIONS trả về 401 dù đã có @CrossOrigin. Nguyên nhân và cách sửa?
+
+Hard
+
+21. Cấu hình liveness và readiness probe cho Kubernetes với Actuator như thế nào? Hai loại probe khác nhau ở đâu?
+22. Một bean khai báo cả @PostConstruct, InitializingBean.afterPropertiesSet() và init-method thì thứ tự chạy ra sao?
+23. Log hiện cảnh báo HHH000104: firstResult/maxResults specified with collection fetch; applying in memory. Chuyện gì đang xảy ra và xử lý thế nào?
+24. Import 100.000 bản ghi bằng saveAll() rất chậm. Em đã đặt hibernate.jdbc.batch_size=50 mà log vẫn ra từng câu INSERT riêng lẻ. Vì sao?
+25. Production báo HikariPool-1 - Connection is not available, request timed out after 30000ms. Em chẩn đoán và xử lý thế nào?
+26. Với JWT stateless, em thiết kế luồng refresh token và thu hồi (revoke) token như thế nào?
