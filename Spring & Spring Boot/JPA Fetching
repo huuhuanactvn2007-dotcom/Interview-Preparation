@@ -1,1 +1,11 @@
+Easy
 
+1. LazyInitializationException xảy ra khi nào? Vì sao trên môi trường dev không thấy nhưng lên production lại gặp?
+
+Medium
+
+2. @EntityGraph và join fetch khác nhau thế nào? Khi nào chọn cái nào để chữa N+1?
+
+Hard
+
+3. Ứng dụng ném MultipleBagFetchException: cannot simultaneously fetch multiple bags. Vì sao và xử lý ra sao?
