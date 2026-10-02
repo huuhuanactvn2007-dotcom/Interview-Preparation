@@ -1,1 +1,6 @@
+Medium
 
+1. Spring Boot Actuator dùng để làm gì?
+2. Cách tạo custom HealthIndicator trong Spring Boot Actuator?
+3. Cách bảo vệ Actuator endpoint trong production?
+4. Spring Boot Actuator metric với Prometheus và Grafana tích hợp thế nào?
