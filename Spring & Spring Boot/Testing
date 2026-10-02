@@ -1,1 +1,10 @@
+Medium
 
+1. @SpringBootTest là gì? Khác gì với unit test thông thường?
+2. Slice tests trong Spring Boot: @WebMvcTest và @DataJpaTest dùng khi nào?
+3. @MockBean và @Mock khác nhau thế nào?
+4. Testcontainers trong Spring Boot dùng để làm gì?
+
+Hard
+
+5. Đánh đổi giữa Testcontainers và H2 in-memory database trong testing là gì?
